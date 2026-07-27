@@ -1,0 +1,18 @@
+# HARD BLOCK — never commit anything patient-related
+*referral*
+*Referral*
+*patient*
+*Patient*
+*-report.pdf
+*letter*
+*Letter*
+*consent*
+*DEXA*
+*bloods*
+*pathology*
+# only carousel PDFs belong here
+*.docx
+*.xlsx
+*.csv
+*.key
+*.env
